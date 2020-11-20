@@ -1,10 +1,13 @@
-# flutter_form_inputs
+# Flutter Forms: Working with different types of form inputs and validations
+1. textfield(text, email, number, password)
+2. textarea
+3. switch
+4. toggles
+5. checkbox
 
-A new Flutter application.
 
+Flutter Info:
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
